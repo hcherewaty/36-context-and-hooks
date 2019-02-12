@@ -6,7 +6,6 @@
 ### Author: Heather Cherewaty
 
 ### Links and Resources
-[![Build Status](https://www.travis-ci.com/hcherewaty/36-context-and-hooks.svg?branch=master)](https://www.travis-ci.com/hcherewaty/36-context-and-hooks)
 
 * [repo](https://github.com/hcherewaty/36-context-and-hooks)
 * [travis](https://www.travis-ci.com/hcherewaty/36-context-and-hooks/builds/100550294)
