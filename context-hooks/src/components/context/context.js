@@ -15,12 +15,12 @@ class CounterProvider extends React.Component {
           }
     }
 
-    increment = (count) => {
-        this.setState({count})
+    increment = () => {
+        this.setState({count: this.state.count + 1})
     }
 
-    decrement = (count) => {
-        this.setState({count})
+    decrement = () => {
+        this.setState({count: this.state.count - 1})
     }
     
     render(){

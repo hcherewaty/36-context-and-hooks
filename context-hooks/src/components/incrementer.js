@@ -21,7 +21,7 @@ export default props => {
                 console.log(context);
                 return (
                     <div style={styles.centered}>
-                        <button id="up" style={styles.clickable} onClick={() => context.increment(context.count + 1 )}>Increment</button>
+                        <button id="up" style={styles.clickable} onClick={context.increment}>Increment</button>
                     </div>
                     );
                 }}
