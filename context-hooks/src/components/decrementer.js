@@ -19,7 +19,7 @@ export default props => {
             {context => {
                 return (
                     <div style={styles.centered}>
-                    <button id="down" style={styles.clickable} onClick={() => context.decrement(context.count - 1 )}>Decrement</button>
+                    <button id="down" style={styles.clickable} onClick={context.decrement}>Decrement</button>
                     </div>
                 );
             }}
