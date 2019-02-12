@@ -1,12 +1,12 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Context & Hooks L36
 
-### Author: Student/Group Name
+### Author: Heather Cherewaty
 
 ### Links and Resources
-* [repo](http://xyz.com)
+* [repo](https://github.com/hcherewaty/36-context-and-hooks)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
